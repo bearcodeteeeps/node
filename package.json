@@ -1,0 +1,28 @@
+{
+  "name": "node",
+  "version": "0.0.1",
+  "description": "A Simple Node App Using Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "10.16.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku/node-js-sample"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "David G.",
+  "contributors": [
+    "David G. <bearcodeteeeps@gmail.com> (https://bct.now.sh/)"
+  ],
+  "license": "MIT"
+}
