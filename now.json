@@ -1,7 +1,7 @@
 {
     "version": 2,
-    "name": "node",
+    "name": "node-test",
     "builds": [
       { "src": "**/*.js", "use": "@now/node" }
     ]
-  }
+  } 
